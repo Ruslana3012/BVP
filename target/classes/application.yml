@@ -1,0 +1,39 @@
+server:
+  port: 8081
+---
+spring:
+  application:
+    name: Junior-Java-Developer-BVP-Software
+  mail:
+    host: smtp-mail.outlook.com
+    properties:
+      mail:
+        smtp:
+          auth: true
+          starttls:
+            enable: true
+    port: 587
+    username: brv123456789@outlook.com
+    password: dipcik-sarty7-Wuftid
+  sql:
+    init:
+      mode: never
+  flyway:
+    baseline-on-migrate: true
+  datasource:
+    password: vetabe
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: postgres
+---
+security:
+  jwt:
+    token:
+      secret-key: ${random.value}
+      expire-milliseconds: 12000000000
+    refresh-token:
+      expire-milliseconds: 24000000000
+---
+logging:
+  level:
+    org.springframework.transaction.interceptor: off
+    org.springframework.security: DEBUG

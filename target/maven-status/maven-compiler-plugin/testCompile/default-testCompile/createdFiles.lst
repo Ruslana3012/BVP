@@ -1,0 +1,8 @@
+com\example\juniorjavadeveloperbvpsoftware\service\AuthenticationServiceTest.class
+com\example\juniorjavadeveloperbvpsoftware\service\UserServiceTest.class
+com\example\juniorjavadeveloperbvpsoftware\service\EmailServiceTest.class
+com\example\juniorjavadeveloperbvpsoftware\service\ResetPasswordTest.class
+com\example\juniorjavadeveloperbvpsoftware\repository\UserRepositoryTest.class
+com\example\juniorjavadeveloperbvpsoftware\repository\RoleRepositoryTest.class
+com\example\juniorjavadeveloperbvpsoftware\service\RoleServiceTest.class
+com\example\juniorjavadeveloperbvpsoftware\JuniorJavaDeveloperBvpSoftwareApplicationTests.class

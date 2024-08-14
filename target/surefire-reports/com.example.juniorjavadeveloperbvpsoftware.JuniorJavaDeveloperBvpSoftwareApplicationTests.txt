@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.example.juniorjavadeveloperbvpsoftware.JuniorJavaDeveloperBvpSoftwareApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 5.699 s -- in com.example.juniorjavadeveloperbvpsoftware.JuniorJavaDeveloperBvpSoftwareApplicationTests
